@@ -10,6 +10,7 @@
     <a href="https://www.youtube.com/DIMFLIX"><img src="https://img.shields.io/badge/-YouTube-f2cdcd?style=for-the-badge&logo=YouTube&logoColor=FF0000" alt="YouTube"/></a>
     <a href="https://orcid.org/0009-0002-5036-3822"><img src="https://img.shields.io/badge/-ORCID-f5c2e7?style=for-the-badge&logo=orcid&logoColor=4F7DB3" alt="ORCID"/></a>
     <a href="https://www.kaggle.com/dimflix/"><img src="https://img.shields.io/badge/-Kaggle-cba6f7?style=for-the-badge&logo=kaggle&logoColor=5F66E6" alt="Kaggle"/></a>
+    <br>
     <a href="https://mynickname.com/id1843842"><img src="https://mynickname.com/img.php?nick=dimflix&sert=24&text=t3" alt="Nickname dimflix registred!" /></a>
 </div>
 
