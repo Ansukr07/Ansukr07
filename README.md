@@ -109,6 +109,8 @@ I'm studying **Artificial Intelligence & Machine Learning** at **BMS Institute o
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white"/>
 </p>
 
+<img src="./assets/projects/vital-path.png" width="700" alt="VitalPath Preview"/>
+
 - Built an AI-powered healthcare triage platform integrating **rule-based assessment**, **ML risk scoring**, and **ClinicalBERT-based medical entity extraction** for intelligent patient prioritisation
 - Developed **multi-role dashboards** for patients, doctors, and admins with symptom intake, medical report **OCR parsing**, triage overrides, audit logging, and **real-time emergency alerts**
 - Implemented scalable **microservice architecture** using FastAPI, Express.js, MongoDB, and transformer-based NLP pipelines supporting real-time clinical insights and predictive healthcare analytics
@@ -124,12 +126,14 @@ I'm studying **Artificial Intelligence & Machine Learning** at **BMS Institute o
   <img src="https://img.shields.io/badge/QR_Integration-000000?style=flat-square&logo=qrcode&logoColor=white"/>
 </p>
 
+<img src="./assets/projects/participant-portal.jpeg" width="700" alt="Participant Portal Preview"/>
+
 - Developed a resource management portal for BMSIT&M's largest hackathon, supporting **250+ participants** and streamlining event operations
 - Implemented a **QR-based tracking system** for food, sleeping bags, and essential resource distribution, reducing manual effort by **80%**
 
 ---
 
-### 📄 PaperLabs — LeetCode for Research Papers
+### 📄 Axiom — LeetCode for Research Papers
 
 <p>
   <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white"/>
@@ -139,6 +143,8 @@ I'm studying **Artificial Intelligence & Machine Learning** at **BMS Institute o
   <img src="https://img.shields.io/badge/Pyodide-3776AB?style=flat-square&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/Monaco_Editor-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white"/>
 </p>
+
+<img src="./assets/projects/axiom.png" width="700" alt="Axiom Preview"/>
 
 - Built a full-stack learning platform supporting **100+ curated research paper implementation challenges** across ML and AI domains
 - Developed an **in-browser Python coding environment** using Pyodide and Monaco Editor with real-time code execution, testing, and progress tracking
