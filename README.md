@@ -155,8 +155,9 @@ I'm studying **Artificial Intelligence & Machine Learning** at **BMS Institute o
 
 ## 🏆 Achievements
 
-| 🏆 | **7× Hackathon Winner** — Secured winning positions across multiple national and inter-college hackathons |
+|   |   |
 |---|---|
+| 🏆 | **7× Hackathon Winner** — Secured winning positions across multiple national and inter-college hackathons |
 | 🎯 | **Evaluation Committee Member — Code Red 3.0** — Selected for the evaluation committee at BMSIT&M's flagship hackathon (3000+ participants) while contributing to technical development |
 | 🌍 | **GirlScript Summer of Code (GSSoC) Contributor** — Contributed to open-source projects, improving codebases and collaborating with maintainers globally |
 | 🤝 | **Placement Coordinator — BMSIT** — Acted as a bridge between the placement cell and students, assisting in communication, coordination, and engagement during placement training |
