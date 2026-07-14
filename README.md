@@ -198,10 +198,12 @@ I'm studying **Artificial Intelligence & Machine Learning** at **BMS Institute o
 
 <img alt="Ansukr07 profile Trophy's" src="https://github-profile-trophy.vercel.app/?username=Ansukr07&column=5&theme=nord&margin-w=15&margin-h=15&no-bg=true"/>
 
-<img alt="Ansukr07 Monthly Contributions" src="https://ssr-contributions-svg.vercel.app/_/Ansukr07?format=monthly&theme=blue&chart=bar&weeks=50&flatten=1" />
+<img alt="Ansukr07 GitHub Streak" src="https://streak-stats.demolab.com/?user=Ansukr07&theme=transparent&hide_border=true&date_format=j%20M%5B%20Y%5D&mode=weekly"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ansukr07&layout=compact&theme=transparent"/>
+<img alt="Ansukr07 Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=Ansukr07&theme=github-compact&hide_border=true&custom_title=Monthly+Contribution+Graph"/>
 
-<img src="https://github-readme-stats.vercel.app/api?username=Ansukr07&show_icons=true&theme=transparent"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ansukr07&layout=compact&theme=transparent&hide_border=true&langs_count=8"/>
+
+<img src="https://github-readme-stats.vercel.app/api?username=Ansukr07&show_icons=true&theme=transparent&hide_border=true&include_all_commits=true&count_private=true"/>
 
 </details>
