@@ -155,22 +155,6 @@ I'm studying **Artificial Intelligence & Machine Learning** at **BMS Institute o
 | 🌍 | **GirlScript Summer of Code (GSSoC) Contributor** — Contributed to open-source projects, improving codebases and collaborating with maintainers globally |
 | 🤝 | **Placement Coordinator — BMSIT** — Acted as a bridge between the placement cell and students, assisting in communication, coordination, and engagement during placement training |
 
-## � My Organizations (Clickable)
-
-<div align="center">
-<table>
-<tr>
-<td><a href="https://github.com/meowrch"><img src="./assets/meowrch.png" width="330" height="180"/></a></td>
-<td><a href="https://github.com/Ansukr07-Hackathons"><img src="./assets/hackathons.png" width="330" height="180"/></a></td>
-</tr>
-<tr>
-<td><a href="https://github.com/Ansukr07-Designs"><img src="./assets/designs.png" width="330" height="180"/></a></td>
-<td><a href="https://github.com/Ansukr07-EDUCATION"><img src="./assets/education.png" width="330" height="180"/></a></td>
-</tr>
-</table>
-</div>
-
-
 
 <details>
 <summary><a name="certificates"></a><h2>🗂 Hackathon Certificates</h2></summary>
